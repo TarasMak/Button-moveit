@@ -1,0 +1,12 @@
+body {position: relative;}
+
+#but {
+  position:absolute;
+  left:250px;
+  top:250px;
+  width:150px;
+  height:50px;
+  color:red;
+  
+  
+}
